@@ -1,0 +1,16 @@
+Questi file di testo vengono letti all'avvio per creare i vari livelli
+I simboli standard rappresentano tipi di piattaforme
+l'intera finestra del gioco si traduce in 51 colonne e 35 righe
+
+Simboli ammessi:
+# = piattaforma (20*20)
+" " = spazio vuoto uguale spazio vuoto di (20*20)
+e = piattaforma finale (40*40)
+s = piattaforma iniziale (20*20)
+= = piattaforma cadente temporizzata a 50 (20*20)
+! = piattaforma cadente temporizzata a 25 (20*20)
+
+
+con un "salto" impostato a p_v_x = -10
+il giocatore può saltare due "mattoni" in alto
+e sei "mattoni" in lungo

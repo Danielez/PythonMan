@@ -1,0 +1,14 @@
+Tasti freccia: Movimento
+X: Uscire
+T: Ricomincia livello attuale
+R: ricomincia tutto il gioco
+B: Suona colonna sonora
+N: Cambia brano 
+M: Ferma colonna sonora
+P: Pausa
+C: crediti
+F1: Help (quello che stai leggendo)
+
+Nota: Aggiungi file mp3 o wav nella cartella 'music', se la colonna 
+sonora è abilitata (B) saranno suonati. Il brano da suonare viene 
+selezionato in maniera casuale.
